@@ -4,7 +4,7 @@
 	font-size: xx-large;
 	text-align: left;
 	text-decoration-style: None;
-
+	color: white
 }
 
 #header {
@@ -13,6 +13,8 @@
 	padding: 100;
 	border-spacing: 0;
 	background-color: #92a8d1;
+	color: white;
+	
 }
 
 #table {
@@ -20,8 +22,9 @@
 	width: 100%;
 	padding: 25;
 	border-spacing: 0;
-	background-color: #0d5df1;
+	background-color: #92a8d1;
 	align-content: center;
+	color: white
 }
 
 #nav{
@@ -30,6 +33,7 @@
 	font-size: x-large;
 	text-align: left;
 	text-decoration-style: None;	
+	color:white
 }
 
 #profile_pic{
